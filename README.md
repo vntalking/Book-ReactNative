@@ -31,7 +31,8 @@ Sau khi hoàn thành phần lý thuyết trong cuốn sách. Bạn cùng tác gi
 
 Giao diện ứng dụng như sau:
 
-![Sách học React Native tiếng việt](https://raw.githubusercontent.com/vntalking/Book-ReactNative/0b5e75557c078700d911c1a95b3ef1f90bd1095e/screenshots/RN_duAnCuoiKhoa_Demo.png)
+<img src="https://raw.githubusercontent.com/vntalking/Book-ReactNative/0b5e75557c078700d911c1a95b3ef1f90bd1095e/screenshots/RN_duAnCuoiKhoa_Demo.png" width=69%>
+
 ## Liên hệ
 Nếu có bất kỳ vấn đề gì trong quá trình học, code bị lỗi hoặc không hiểu, các bạn có thể liên hệ với mình qua một trong những hình thức dưới đây:
  - Website: [https://vntalking.com](https://vntalking.com)
