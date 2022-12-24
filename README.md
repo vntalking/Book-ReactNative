@@ -1,7 +1,6 @@
 # Ebook: Lập trình React Native thật đơn giản<br/>
 ### Xây dựng ứng dụng di động bằng Javascript
 ---
-![Sách học React Native tiếng việt]()
 Dự án sách được thực hiện bởi [VNTALKING.COM](https://vntalking.com)<br/>
 **Nội dung cuốn sách:**<br/>
 1. Giới Thiệu React Native
