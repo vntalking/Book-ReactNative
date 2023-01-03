@@ -1,8 +1,10 @@
 # Ebook: Lập trình React Native thật đơn giản<br/>
 ### Xây dựng ứng dụng di động bằng Javascript
-<img src="https://vntalking.com/wp-content/uploads/2022/12/ReactNative-Book-3D-Cover-S1-compressed.jpg" width=69%>
+<img src="https://vntalking.com/wp-content/uploads/2022/12/ReactNative-Book-3D-Cover-S1-compressed.jpg" width=69%/>
+
 ---
 Dự án sách được thực hiện bởi [VNTALKING.COM](https://vntalking.com)<br/>
+
 **Nội dung cuốn sách:**<br/>
 1. Giới Thiệu React Native
 2. Tạo Ứng Dụng Đầu Tiên
@@ -31,7 +33,7 @@ Sau khi hoàn thành phần lý thuyết trong cuốn sách. Bạn cùng tác gi
 
 Giao diện ứng dụng như sau:
 
-<img src="https://raw.githubusercontent.com/vntalking/Book-ReactNative/0b5e75557c078700d911c1a95b3ef1f90bd1095e/screenshots/RN_duAnCuoiKhoa_Demo.png" width=69%>
+<img src="https://raw.githubusercontent.com/vntalking/Book-ReactNative/0b5e75557c078700d911c1a95b3ef1f90bd1095e/screenshots/RN_duAnCuoiKhoa_Demo.png" width=69%/>
 
 ## Liên hệ
 Nếu có bất kỳ vấn đề gì trong quá trình học, code bị lỗi hoặc không hiểu, các bạn có thể liên hệ với mình qua một trong những hình thức dưới đây:
