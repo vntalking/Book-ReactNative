@@ -1,5 +1,6 @@
 # Ebook: Lập trình React Native thật đơn giản<br/>
 ### Xây dựng ứng dụng di động bằng Javascript
+<img src="https://vntalking.com/wp-content/uploads/2022/12/ReactNative-Book-3D-Cover-S1-compressed.jpg" width=69%>
 ---
 Dự án sách được thực hiện bởi [VNTALKING.COM](https://vntalking.com)<br/>
 **Nội dung cuốn sách:**<br/>
